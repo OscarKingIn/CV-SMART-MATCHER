@@ -5,3 +5,5 @@ Upload Resume and Job Description (.pdf, .docx, .txt)
 Heuristic missing keyword detection
 LLM-powered analysis for candidate-job fit
 Supports OpenAI GPT API
+
+
